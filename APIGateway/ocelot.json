@@ -1,0 +1,98 @@
+{
+  "ReRoutes": [
+    {
+      "DownstreamPathTemplate": "/api/v1.0/Customer",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": "44347"
+        }
+      ],
+      "UpstreamPathTemplate": "/v1.0/Customer",
+      "UpstreamHttpMethod": [ "POST", "GET" ]
+
+    },
+    {
+      "DownstreamPathTemplate": "/api/v1.0/Customer/{id}",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": "44347"
+        }
+      ],
+      "UpstreamPathTemplate": "/v1.0/Customer/{id}",
+      "UpstreamHttpMethod": [ "PUT", "DELETE" ]
+
+    },
+    {
+      "DownstreamPathTemplate": "/api/v1.0/Login",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": "44391"
+        }
+      ],
+      "UpstreamPathTemplate": "/v1.0/Login",
+      "UpstreamHttpMethod": [ "POST" ]
+
+    },
+    {
+      "DownstreamPathTemplate": "/api/v1.0/Login",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": "44391"
+        }
+      ],
+      "UpstreamPathTemplate": "/v1.0/Login",
+      "UpstreamHttpMethod": [ "PUT" ]
+
+    },
+    {
+      "DownstreamPathTemplate": "/api/v1.0/Account/{accountNumber}",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": "44301"
+        }
+      ],
+      "UpstreamPathTemplate": "/v1.0/Account/{accountNumber}",
+      "UpstreamHttpMethod": [ "GET" ]
+
+    },
+    {
+      "DownstreamPathTemplate": "/api/v1.0/FundTransfer",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": "44322"
+        }
+      ],
+      "UpstreamPathTemplate": "/v1.0/FundTransfer",
+      "UpstreamHttpMethod": [ "POST" ]
+
+    },
+    {
+      "DownstreamPathTemplate": "/api/v1.0/Benificiary",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": "44322"
+        }
+      ],
+      "UpstreamPathTemplate": "/v1.0/Benificiary",
+      "UpstreamHttpMethod": [ "POST" ]
+
+    }
+  ],
+  "GlobelConfiguration": {
+    "BaseUrl": "https://localhost:44314/"
+  }
+}

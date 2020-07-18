@@ -1,0 +1,14 @@
+C:\Users\student\Desktop\CustomerService\APIGateway\bin\Debug\netcoreapp2.2\APIGateway.deps.json
+C:\Users\student\Desktop\CustomerService\APIGateway\bin\Debug\netcoreapp2.2\APIGateway.runtimeconfig.json
+C:\Users\student\Desktop\CustomerService\APIGateway\bin\Debug\netcoreapp2.2\APIGateway.runtimeconfig.dev.json
+C:\Users\student\Desktop\CustomerService\APIGateway\bin\Debug\netcoreapp2.2\APIGateway.dll
+C:\Users\student\Desktop\CustomerService\APIGateway\bin\Debug\netcoreapp2.2\APIGateway.pdb
+C:\Users\student\Desktop\CustomerService\APIGateway\obj\Debug\netcoreapp2.2\APIGateway.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\CustomerService\APIGateway\obj\Debug\netcoreapp2.2\APIGateway.RazorAssemblyInfo.cache
+C:\Users\student\Desktop\CustomerService\APIGateway\obj\Debug\netcoreapp2.2\APIGateway.RazorAssemblyInfo.cs
+C:\Users\student\Desktop\CustomerService\APIGateway\obj\Debug\netcoreapp2.2\APIGateway.AssemblyInfoInputs.cache
+C:\Users\student\Desktop\CustomerService\APIGateway\obj\Debug\netcoreapp2.2\APIGateway.AssemblyInfo.cs
+C:\Users\student\Desktop\CustomerService\APIGateway\obj\Debug\netcoreapp2.2\APIGateway.RazorTargetAssemblyInfo.cache
+C:\Users\student\Desktop\CustomerService\APIGateway\obj\Debug\netcoreapp2.2\APIGateway.dll
+C:\Users\student\Desktop\CustomerService\APIGateway\obj\Debug\netcoreapp2.2\APIGateway.pdb
+C:\Users\student\Desktop\CustomerService\APIGateway\obj\Debug\netcoreapp2.2\APIGateway.csprojAssemblyReference.cache

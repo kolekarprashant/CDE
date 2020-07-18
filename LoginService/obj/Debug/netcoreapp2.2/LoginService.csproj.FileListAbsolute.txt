@@ -1,0 +1,15 @@
+C:\Users\student\Desktop\CustomerService\LoginService\bin\Debug\netcoreapp2.2\LoginService.deps.json
+C:\Users\student\Desktop\CustomerService\LoginService\bin\Debug\netcoreapp2.2\LoginService.runtimeconfig.json
+C:\Users\student\Desktop\CustomerService\LoginService\bin\Debug\netcoreapp2.2\LoginService.runtimeconfig.dev.json
+C:\Users\student\Desktop\CustomerService\LoginService\bin\Debug\netcoreapp2.2\LoginService.dll
+C:\Users\student\Desktop\CustomerService\LoginService\bin\Debug\netcoreapp2.2\LoginService.pdb
+C:\Users\student\Desktop\CustomerService\LoginService\obj\Debug\netcoreapp2.2\LoginService.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\CustomerService\LoginService\obj\Debug\netcoreapp2.2\LoginService.RazorAssemblyInfo.cache
+C:\Users\student\Desktop\CustomerService\LoginService\obj\Debug\netcoreapp2.2\LoginService.RazorAssemblyInfo.cs
+C:\Users\student\Desktop\CustomerService\LoginService\obj\Debug\netcoreapp2.2\LoginService.AssemblyInfoInputs.cache
+C:\Users\student\Desktop\CustomerService\LoginService\obj\Debug\netcoreapp2.2\LoginService.AssemblyInfo.cs
+C:\Users\student\Desktop\CustomerService\LoginService\obj\Debug\netcoreapp2.2\LoginService.RazorTargetAssemblyInfo.cache
+C:\Users\student\Desktop\CustomerService\LoginService\obj\Debug\netcoreapp2.2\LoginService.dll
+C:\Users\student\Desktop\CustomerService\LoginService\obj\Debug\netcoreapp2.2\LoginService.pdb
+C:\Users\student\Desktop\CustomerService\LoginService\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\student\Desktop\CustomerService\LoginService\obj\Debug\netcoreapp2.2\LoginService.csprojAssemblyReference.cache

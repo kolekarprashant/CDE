@@ -1,0 +1,4 @@
+C:\Users\student\Desktop\CustomerService\customerServiceTest\obj\Debug\netcoreapp2.2\customerServiceTest.csprojAssemblyReference.cache
+C:\Users\student\Desktop\CustomerService\customerServiceTest\obj\Debug\netcoreapp2.2\customerServiceTest.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\CustomerService\customerServiceTest\obj\Debug\netcoreapp2.2\customerServiceTest.AssemblyInfoInputs.cache
+C:\Users\student\Desktop\CustomerService\customerServiceTest\obj\Debug\netcoreapp2.2\customerServiceTest.AssemblyInfo.cs

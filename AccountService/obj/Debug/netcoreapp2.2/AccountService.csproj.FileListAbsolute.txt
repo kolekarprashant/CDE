@@ -1,0 +1,15 @@
+C:\Users\student\Desktop\CustomerService\AccountService\bin\Debug\netcoreapp2.2\AccountService.deps.json
+C:\Users\student\Desktop\CustomerService\AccountService\bin\Debug\netcoreapp2.2\AccountService.runtimeconfig.json
+C:\Users\student\Desktop\CustomerService\AccountService\bin\Debug\netcoreapp2.2\AccountService.runtimeconfig.dev.json
+C:\Users\student\Desktop\CustomerService\AccountService\bin\Debug\netcoreapp2.2\AccountService.dll
+C:\Users\student\Desktop\CustomerService\AccountService\bin\Debug\netcoreapp2.2\AccountService.pdb
+C:\Users\student\Desktop\CustomerService\AccountService\obj\Debug\netcoreapp2.2\AccountService.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\CustomerService\AccountService\obj\Debug\netcoreapp2.2\AccountService.RazorAssemblyInfo.cache
+C:\Users\student\Desktop\CustomerService\AccountService\obj\Debug\netcoreapp2.2\AccountService.RazorAssemblyInfo.cs
+C:\Users\student\Desktop\CustomerService\AccountService\obj\Debug\netcoreapp2.2\AccountService.AssemblyInfoInputs.cache
+C:\Users\student\Desktop\CustomerService\AccountService\obj\Debug\netcoreapp2.2\AccountService.AssemblyInfo.cs
+C:\Users\student\Desktop\CustomerService\AccountService\obj\Debug\netcoreapp2.2\AccountService.RazorTargetAssemblyInfo.cache
+C:\Users\student\Desktop\CustomerService\AccountService\obj\Debug\netcoreapp2.2\AccountService.dll
+C:\Users\student\Desktop\CustomerService\AccountService\obj\Debug\netcoreapp2.2\AccountService.pdb
+C:\Users\student\Desktop\CustomerService\AccountService\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\student\Desktop\CustomerService\AccountService\obj\Debug\netcoreapp2.2\AccountService.csprojAssemblyReference.cache
